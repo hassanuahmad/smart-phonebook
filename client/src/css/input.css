@@ -1,0 +1,11 @@
+.inputBtn {
+    color: black;
+    border: 1px solid black;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.inputBtn:hover {
+    background-color: #ccc3f8;
+    border-color: #ccc3f8;
+}
